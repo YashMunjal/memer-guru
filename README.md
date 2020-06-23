@@ -9,7 +9,7 @@ use it inside any image src to get the meme
 # Usage
 - Import the package using  ```npm install @yashmunjal/memer-guru```
 The package returns a promise with an img tag which can be resolved as
-        ```js
+        ```javascript
         import meme from "../index.js";
             meme.then((e) => {
                 //Your work
