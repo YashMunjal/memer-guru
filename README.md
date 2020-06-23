@@ -14,7 +14,6 @@ The package returns a promise with an img tag which can be resolved as
             meme.then((e) => {
                 //Your work
             });
-
          ```
 
  
