@@ -8,7 +8,7 @@ use it inside any image src to get the meme
 
 # Usage
 
-    - Import the package using  ``npm i @yashmunjal/meme-guru``
+    - Import the package using  ``npm i @yashmunjal/memer-guru``
     - The package returns a promise with an img tag which can be resolved as
         `` import meme from "../index.js";
             meme.then((e) => {
