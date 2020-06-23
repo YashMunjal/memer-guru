@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "repository": {
-    "url": "git://github.com/YashMunjal/memer-guru.git"
+    "url": "git://github.com/yashMunjal/memer-guru.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
   }
 }
